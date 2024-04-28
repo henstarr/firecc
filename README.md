@@ -1,4 +1,4 @@
-# firecc
+# University of Maryland: FIRE Cloud Computing
 Machine learning project analyzing polar lowes and cloud obstructions.
 
 ![poster](./firecc_poster.png)
