@@ -1,7 +1,7 @@
 # firecc
 Machine learning project analyzing polar lowes and cloud obstructions.
 
-![poster](./firecc_poster)
+![poster](./firecc_poster.png)
 
 
 This repository showcases the machine learning models my team and I created to recognize certain cloud types and polar lowes.
